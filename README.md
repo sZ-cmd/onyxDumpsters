@@ -6,10 +6,10 @@ This script allows players to search any dumpster in the game for valuables, tra
 * Specific dumpsters have a cooldown timer after you search it (5 minutes default)
 * Get random items from dumpsters based on chance.
 
-### Dependancies
-ProgressBars
-MythicNotify
-ESX
+### Optional Scripts
+* ProgressBars
+* MythicNotify
+* ESX
 
 ### Media
 ![img](https://i.imgur.com/f556d63.jpg)
