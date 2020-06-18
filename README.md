@@ -1,6 +1,10 @@
 ## onyxDumpsters
 This script allows players to search any dumpster in the game for valuables, trash and other goods. It is easily modifyable and can be changed to however you like it.
 
+
+## Support & My Script Releases
+https://discord.gg/AfYDUGW
+
 ### Features
 * Search any dumpster in the city
 * Specific dumpsters have a cooldown timer after you search it (5 minutes default)
@@ -15,7 +19,3 @@ This script allows players to search any dumpster in the game for valuables, tra
 ![img](https://i.imgur.com/f556d63.jpg)
 
 Any issues me contact on Discord: Howdy#8276
-
-
-## Support & My Script Releases
-https://discord.gg/AfYDUGW
